@@ -4,7 +4,7 @@
 This project is my submission for the **#CodebasicsResumeChallenge**, where I analyzed hotel revenue trends using Power BI. The goal was to provide valuable insights to the **Revenue Team of Atliq Grands** in the hospitality domain.
 
 ## 📊 Key Insights & Dashboard Features
-➡ Developed **4 dashboards**: Overall Analysis, Revenue Analysis, Booking Analysis, and Rating Analysis.  
+➡ Developed **dashboard**: Overall Analysis, Revenue Analysis, Booking Analysis, and Rating Analysis.  
 ➡ Identified key revenue drivers & trends in hotel bookings.  
 ➡ Focused on **Elite Customers** and high-impact room types (RT2).  
 ➡ Detected a **28.17% revenue drop** in the last 4 days of the month.  
