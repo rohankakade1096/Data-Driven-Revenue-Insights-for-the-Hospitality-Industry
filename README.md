@@ -25,7 +25,7 @@ This project is my submission for the **#CodebasicsResumeChallenge**, where I an
 
 ## 🔗 Links 
 📌 **𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝:** [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2IzM2NhYmUtMGEyYy00NGJlLWFmMzEtYjdhZjA0ZTYwNmM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
-📌 **LinkedIn:** [Add Your Link Here]  
+📌 **LinkedIn:** [Post](https://www.linkedin.com/feed/update/urn:li:activity:7290684730759380992/)  
 
 ## 🙌 Special Thanks
 Big thanks to **Dhaval Patel Sir & Hemanand Vadivel Sir** for organizing this amazing challenge! Looking forward to your feedback. 😊  
